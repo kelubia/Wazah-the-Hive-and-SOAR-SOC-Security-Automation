@@ -12,4 +12,5 @@ Scalable and Flexible: Wazah effortlessly scales with your organization's evolvi
 NETWORK VISUALIZATION DIAGRAM.
 ![Soc Automation](https://github.com/kelubia/Wazah-the-Hive-and-SOAR-SOC-Security-Automation/assets/98921903/e9f71575-a1fc-4632-928a-4be5f12b4de8)
 
-
+STEP 1-
+In virtual box I installed windows 10, and Sysmon
