@@ -8,3 +8,8 @@ Key Features:
 Collaborative Intelligence: The Hive fosters real-time threat intelligence sharing and collaboration among security analysts, enhancing the speed and accuracy of threat detection. This real-time nature of the Hive's intelligence sharing makes your security analysts feel responsive and proactive, always a step ahead of potential threats.Automated Workflows: Shuffle automates routine tasks and processes, minimizing manual intervention and maximizing SOC efficiency.
 Customizable Playbooks: Tailor automated response workflows to your organization's unique security requirements and operational preferences.
 Scalable and Flexible: Wazah effortlessly scales with your organization's evolving security needs, adapting to dynamic threat landscapes and changing operational demands. This adaptability ensures your security infrastructure is always up to date, making your organization feel secure and future-proof.
+
+NETWORK VISUALIZATION DIAGRAM.
+![Soc Automation](https://github.com/kelubia/Wazah-the-Hive-and-SOAR-SOC-Security-Automation/assets/98921903/e9f71575-a1fc-4632-928a-4be5f12b4de8)
+
+
